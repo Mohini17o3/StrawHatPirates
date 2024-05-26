@@ -140,14 +140,14 @@ function App() {
         <label> Sleep Time</label> <input type="text" name="SLEEP_TIME" placeholder="Sleep Time" className='rounded-md text-black' value={regressionInput.SLEEP_TIME} onChange={handleInputChange} /> 
                
         </form>
-        <button className='mt-6 mx-96 mb-7' onClick={handleRegressionPrediction}>Predict Regression</button>
+        <button className='mt-6 mx-96 mb-7' onClick={handleRegressionPrediction}>Predict </button>
 
 
  <div>
         {regressionResult && ( 
             <p className="mt-8">
-              Regression Prediction: {regressionResult} 
-              {   console.log(regressionResult)}
+               Prediction: {regressionResult} 
+              {console.log(regressionResult)}
             </p>
           )}
 </div>
