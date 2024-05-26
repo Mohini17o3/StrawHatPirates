@@ -1,8 +1,44 @@
-# React + Vite
+![image](https://github.com/Mohini17o3/StrawHatPirates/assets/143266565/e82a16f3-81a2-415b-abd7-f4e892f81a28)<h1>Is All Well AI Tool</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2>Objective</h2>
+To develop a platform using advanced machine learning algorithms for automated ultrasound image analysis, providing detailed insights into plane classification, maternal health, and fetal health.
 
-Currently, two official plugins are available:
+<h2>Problem Statement</h2>
+Enhancing Prenatal Care through Advanced Ultrasound Analysis
+<ul>
+  <li><h4>Background</h4>
+  Traditional ultrasound analysis is often manual and subject to human error, requiring significant expertise which may not always be available.
+  </li>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  <li><h4>PROBLEM</h4>
+  There is a need for an efficient, accurate, and accessible method to analyze ultrasound images to improve maternal and fetal health outcomes.
+  </li> 
+</ul>
+
+<h2>Technology Used</h2>
+<ul>
+  <li>At its core lies the creation of a comprehensive dataset and a suite of deep learning models.</li>
+  <li>Comprising over 15,000 high-quality ultrasound images of a fetus at 23 weeks of gestation, this dataset is annotated with diagnostic planes, fetal biometric values, anatomical features, and bounding boxes for various fetal structures.
+</li>
+</ul>
+
+<h2>What Does our model offer</h2>
+<ul>
+  <li>Fetal orientation Model That can detect the structure of the foetus.  --- Fetal  thorax ,Maternal cervix , fetal brain, fetal femur.  
+</li>
+  <li>Maternal Health ---- it can detect mother health – safe , Risk , Severe on the basis of Calories, trimester , Sleep time and Heart 
+</li>
+</ul>
+
+<h2>User Interface</h2>
+
+![Picture3](https://github.com/Mohini17o3/StrawHatPirates/assets/143266565/783ac907-f2fd-41ee-ba1e-79de15e8c342)
+
+
+![WhatsApp Image 2024-05-26 at 16 58 01_4320723a](https://github.com/Mohini17o3/StrawHatPirates/assets/143266565/69556dee-9950-4ef4-afd2-17151f5052a5)
+![Picture4](https://github.com/Mohini17o3/StrawHatPirates/assets/143266565/e7c8612c-89bd-4910-809b-53a2efbae8f9)
+![Picture5](https://github.com/Mohini17o3/StrawHatPirates/assets/143266565/8b2f399c-7dbc-4e93-aa24-3ac50b9801a6)
+
+
+
+
