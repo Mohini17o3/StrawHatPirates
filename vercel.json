@@ -1,0 +1,13 @@
+{
+    "routes": [
+      {
+        "src": "/predict",
+        "methods": ["POST"],
+        "dest": "/api/predict",
+        "headers": {
+          "x-vercel-disable-auth": "1"
+        }
+      }
+    ]
+  }
+  
