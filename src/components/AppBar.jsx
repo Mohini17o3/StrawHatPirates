@@ -32,7 +32,7 @@ const AppBar = ()=>{
                     <a href="#" className="text-white ml-10 hover:bg-custom-color2 hover:rounded-full px-3 py-2 transition duration-300 text-lg">Home</a>
                     <a href="#about" className="text-white hover:bg-custom-color2 hover:rounded-full px-3 py-2 transition duration-300 text-lg">About</a>
                   
-                    <a href="#" className="text-white hover:bg-custom-color2 hover:rounded-full px-3 py-2 transition duration-300 text-lg">Contact</a>
+                    <a href="#contact" className="text-white hover:bg-custom-color2 hover:rounded-full px-3 py-2 transition duration-300 text-lg">Contact</a>
         
                     <Link to = {`/submit`} ><button className="absolute right-9">  Sign Up </button></Link> 
                 </div>
