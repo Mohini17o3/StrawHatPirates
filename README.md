@@ -1,5 +1,13 @@
 ![image](https://github.com/Mohini17o3/StrawHatPirates/assets/143266565/e82a16f3-81a2-415b-abd7-f4e892f81a28)<h1>Is All Well AI Tool</h1>
 
+<h2>This project is a team effort by:</h2>
+<ul>
+  <li><a href="https://github.com/vivabhateja" target="_blank" rel="noopener noreferrer">Viva</a></li>
+  <li><a href="https://github.com/Mohini17o3" target="_blank" rel="noopener noreferrer">Mohini</a></li>
+  <li><a href="https://github.com/ShivamKaushik316" target="_blank" rel="noopener noreferrer">Shivam</a></li>
+  <li><a href="https://github.com/why-deepanshux" target="_blank" rel="noopener noreferrer">Deepanshu</a></li>
+</ul>
+
 <h2>Objective</h2>
 To develop a platform using advanced machine learning algorithms for automated ultrasound image analysis, providing detailed insights into plane classification, maternal health, and fetal health.
 
@@ -32,13 +40,13 @@ Enhancing Prenatal Care through Advanced Ultrasound Analysis
 
 <h2>User Interface</h2>
 
+
 ![Picture3](https://github.com/Mohini17o3/StrawHatPirates/assets/143266565/783ac907-f2fd-41ee-ba1e-79de15e8c342)
 
 
 ![WhatsApp Image 2024-05-26 at 16 58 01_4320723a](https://github.com/Mohini17o3/StrawHatPirates/assets/143266565/69556dee-9950-4ef4-afd2-17151f5052a5)
 ![Picture4](https://github.com/Mohini17o3/StrawHatPirates/assets/143266565/e7c8612c-89bd-4910-809b-53a2efbae8f9)
 ![Picture5](https://github.com/Mohini17o3/StrawHatPirates/assets/143266565/8b2f399c-7dbc-4e93-aa24-3ac50b9801a6)
-
 
 
 
